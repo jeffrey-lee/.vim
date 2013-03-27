@@ -1,0 +1,9 @@
+[alias]
+	br = branch
+	co = checkout
+	cm = commit
+	st = status
+[core]
+	editor = vi
+[color]
+	ui = auto
